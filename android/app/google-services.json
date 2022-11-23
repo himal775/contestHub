@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "349030088304",
+    "project_id": "contesthub-15ef9",
+    "storage_bucket": "contesthub-15ef9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349030088304:android:4084ac19eec7d101dbbeb5",
+        "android_client_info": {
+          "package_name": "com.example.contest_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349030088304-bti02scai3ovrrhlhce78fe9kup2d6om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKsFQ4P9Jl8XcOZgHWlfm4gTV0GQvwo0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349030088304-bti02scai3ovrrhlhce78fe9kup2d6om.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
